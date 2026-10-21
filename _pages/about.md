@@ -2,33 +2,45 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. student in Statistics, The Ohio State University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg # replace assets/img/prof_pic.jpg with your own photo, then uncomment this line
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Statistics</p>
+    <p>The Ohio State University</p>
+    <p>Columbus, OH</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # no news items yet
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # no blog posts yet
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Statistics at The Ohio State University, advised by [Subhadeep Paul](TODO-link-to-his-homepage) and [Xiaoxuan Cai](TODO-link-to-her-homepage). I received an M.S. in Statistics (Data Science track) from the University of California, Davis, and a B.S. in Mathematics and Applied Mathematics from Lanzhou University. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Research interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research is in statistical machine learning, with interests in transfer learning, representation learning, variational inference, and deep neural networks, with their applications to health data.
+
+## Industry experience
+
+- Data Science Intern, Lyft, San Francisco, CA (May–August 2026): short-term demand and supply forecasting for marketplace balancing, including transfer learning for data-sparse regions
+
+## Honors and service
+
+- Student Poster Award (Third Place), ICSA Midwest & NIC-ASA Joint Fall Meeting, Chicago, October 2025
+- Speaker, Joint Statistical Meetings (JSM) 2026: [Transfer Learning with Distance Covariance for Random Forest: Error Bounds and an EHR Application](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/abstract.cfm?sid=7119&tid=8137)
+- Reviewer, Conference on Uncertainty in Artificial Intelligence (UAI), 2026
+
+Profiles: [OpenReview](https://openreview.net/profile?id=%7EChenze_Li1) · [Google Scholar](https://scholar.google.com/citations?user=arEuS7IAAAAJ&hl=en)
