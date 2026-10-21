@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. student in Statistics at The Ohio State University, advised by [Subhadeep Paul](TODO-link-to-his-homepage) and [Xiaoxuan Cai](TODO-link-to-her-homepage). I received an M.S. in Statistics (Data Science track) from the University of California, Davis, and a B.S. in Mathematics and Applied Mathematics from Lanzhou University. 
+I am a Ph.D. student in Statistics at The Ohio State University, advised by [Subhadeep Paul](https://u.osu.edu/subhadeep) and [Xiaoxuan Cai](https://xiaoxuan-cai.github.io/). I received an M.S. in Statistics (Data Science track) from the University of California, Davis, and a B.S. in Mathematics and Applied Mathematics from Lanzhou University. 
 
 ## Research interests
 
