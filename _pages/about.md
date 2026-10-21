@@ -6,7 +6,7 @@ subtitle: Ph.D. student in Statistics, The Ohio State University
 
 profile:
   align: right
-  # image: prof_pic.jpg # replace assets/img/prof_pic.jpeg with your own photo, then uncomment this line
+  image: prof_pic.jpg # replace assets/img/prof_pic.jpeg with your own photo, then uncomment this line
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Statistics</p>
